@@ -1,8 +1,7 @@
 # Traditions
-### Coffee-ing a Desk
-### Helmet of Lobby 7
-whoever started the tradition of smacking the helmet on the way to/from church dinner
-### Potato-ing a desk
+**Coffee-ing a Desk** - 
+**Helmet of Lobby 7** - whoever started the tradition of smacking the helmet on the way to/from church dinner
+**Potato-ing a desk** - A potato that traverses desks in the same manner as the coffee set.
 
 # Motifs and Mascots
 ### Eggs
