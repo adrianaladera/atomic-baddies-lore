@@ -43,7 +43,7 @@ If you are a member of Tess' Atomic Architects research group and you are readin
 A smaller, less expensive, or lesser known version of a more well-known counterpart. The dupe could also be lesser in other areas that may be negative (e.g. Boston has less rats than New York, so Boston is a New York [DUPE](https://www.tiktok.com/t/ZTRsccGA1/)).
 
 ### Bonk
-The number of inappropriate jokes made within Song's presence, which warrant a bonk on the head given by her set of inflatable bats. Current bonk tally:
+The number of inappropriate jokes made within Bonk Master Song's presence, which warrant a bonk on the head given by her set of inflatable bats. Current bonk tally:
 - Ameya: 5
 - Adriana: 7
 - YuQing: 3
