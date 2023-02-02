@@ -17,7 +17,7 @@ Slowly, more coffee-related items began to add themselves to the sugar packet se
 **Potato-ing a desk** - A potato that traverses desks in the same manner as the coffee set.
 
 # Motifs and Mascots
-#### **Eggs**
+#### *Eggs*
 Every student in the lab gets an egg, in some shape or form. Newer students are granted an egg by the Egg Madame, Adriana.
 #### Googly Eyes
 ** Ducks ** -
