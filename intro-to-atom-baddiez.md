@@ -24,10 +24,11 @@ A potato with [googly eyes](#googly-eyes) that traverses the desks of the Atomic
 # Motifs and Mascots
 ### Eggs
 Every student in the lab gets an egg, in some shape or form. Newer students are granted an egg by the Egg Madame, Adriana.
-### Googly Eyes
-If you feel like you're being watched in the lab even when no one else is there, it's because you are. The lab features many googly eyes, appearing in either pairs on various items throughout the lab, or in clusters. Aimed to personify inanimate objects.
 ### Ducks
 Quack or crack 👀
+### Googly Eyes
+If you feel like you're being watched in the lab even when no one else is there, it's because you are. The lab features many googly eyes, appearing in either pairs on various items throughout the lab, or in clusters. Aimed to personify inanimate objects.
+### Hairy Ball Theorem Dog
 ### Notorious Meme Art
 Self-explanatory. [Memes](#).
 ### Spherical Harmonic Cows
