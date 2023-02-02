@@ -34,14 +34,20 @@ Self-explanatory. [Memes](#).
 Think of your regular spherical harmonics, but they moo. 
 
 ### Tess Bear (formerly, Bosco)
-An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc.
+An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc. First appeared as Bosco, brought in by Tuong, who adopted the bear from his other friend group. The idea of Tess Bear was birthed upon Tuong's suggestion that Bosco become our Tess [DUPE](#dupe)
 
 # Vocabulary and Nomenclature
 ### Atomic Baddie
+If you are a member of Tess' Atomic Architects research group and you are reading this, you are one ;)
+### Dupe (emphasis on the "OO" pronunciation)
+A smaller, less expensive, or lesser known version of a more well-known counterpart. The dupe could also be lesser in other areas that may be negative (e.g. Boston has less rats than New York, so Boston is a New York [DUPE](https://www.tiktok.com/t/ZTRsccGA1/)).
+
 ### Bruh
 ### Pog
 ### Sus
 Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Unit%20step#e3nn.math.soft_unit_step)
+### Rizz
+Your ability to attract people (usually romantically). Colloquially known as your ability to "pull" or have "hella game". W rizz denotes *hella game*, whereas L rizz signifies *little to no game*.
 ### Slay
 
 # Glossary
