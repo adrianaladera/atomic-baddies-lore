@@ -18,7 +18,7 @@ Someone fill this out I'm too lazy to do it.
 ### Taco Tuesday
 Ayuda me estoy evaporando
 
-### Potato-ing a desk 
+### Potatoing a desk 
 A potato with [googly eyes](#googly-eyes) that traverses the desks of the Atomic Baddies in the same manner as [coffeeing](#coffeeing-a-desk). First appeared c. Fall 2022 during [Monday Prayer at 6](#monday-prayer-at-6), when Adriana snagged a rogue potato from the free farmers' stand in W11. Not knowing what to do with the potato after fellow Baddies refused to take it from her, she stuffed it in an unknowing YuQing's backpack side pocket, collapsing in an attempt to prevent oneself from peeing due to laughing too hard, in the middle of a time crosswalk-road intersection. The potato, like many other items in the lab, has earned googly eyes (and over IAP 2023, sprouts-- or "real eyes") and now visits un[sus](#sus)pecting Baddies.
 
 # Motifs and Mascots
@@ -27,7 +27,7 @@ Every student in the lab gets an egg, in some shape or form. Newer students are 
 ### Ducks
 Quack or crack 👀
 ### Googly Eyes
-If you feel like you're being watched in the lab even when no one else is there, it's because you are. The lab features many googly eyes, appearing in either pairs on various items throughout the lab, or in clusters. Aimed to personify inanimate objects.
+If you feel like you're being watched in the lab even when no one else is there, it's because you are. The lab features many [googly eyes](https://github.com/adrianaladera/atomic-baddies-lore/blob/main/static/googly-eyes.JPG), appearing in either pairs on various items throughout the lab, or in clusters. Aimed to personify inanimate objects.
 ### Hairy Ball Theorem Dog
 ### Notorious Meme Art
 Self-explanatory. [Memes](#).
