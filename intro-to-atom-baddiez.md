@@ -31,8 +31,9 @@ Quack or crack 👀
 ### Googly Eyes
 If you feel like you're being watched in the lab even when no one else is there, it's because you are. The lab features many [googly eyes](https://github.com/adrianaladera/atomic-baddies-lore/blob/main/static/googly-eyes.JPG), appearing in either pairs on various items throughout the lab, or in clusters. Aimed to personify inanimate objects.
 ### Hairy Ball Theorem Dog
+No explanation. [Only picture](https://github.com/adrianaladera/atomic-baddies-lore/blob/main/static/hariy-ball-dog.webp).
 ### Notorious Meme Art
-Self-explanatory. [Memes](#).
+Self-explanatory. [Memes](https://github.com/adrianaladera/atomic-baddies-lore/blob/main/static/meme-walls.jpg).
 ### Spherical Harmonic Cows
 Think of your regular spherical harmonics, but they moo. 
 
