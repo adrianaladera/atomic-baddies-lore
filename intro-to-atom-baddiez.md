@@ -1,4 +1,6 @@
-The [Atomic Baddies](#atomic-baddie) have many layers. You may not understand now, but if you wish to be enlightened, please continue reading. This doc compiles all our [traditions](#traditions), [motifs and mascots](#motifs-and-mascots), [vocabulary and nomenslature](vocabulary-and-nomenclature), and [glossary](#glossary).
+The [Atomic Baddies](#atomic-baddie) have many layers. You may not understand now, but if you wish to be enlightened, please continue reading. This doc compiles all our [traditions](#traditions), [motifs and mascots](#motifs-and-mascots), [vocabulary and nomenslature](vocabulary-and-nomenclature), and [glossary](#glossary). More serious acclimating to the lab things can be found in [the Lab Guide](https://docs.google.com/document/d/1lKayYaAPpht888L6OrTDPlhF_X8ZywD6t9jxhjNqkak/edit#heading=h.vbdyl0a6xx01), but this is where our culture lies.
+
+
 
 # Traditions
 ### Coffeeing a Desk
