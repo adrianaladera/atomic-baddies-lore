@@ -1,5 +1,6 @@
 # Traditions
-**Coffee-ing a Desk** - If you see a set composed of coffee, sugar packets, and creamer (may include some additional items) appear on your desk, you should aim to gift this coffee set to a fellow lab mate, but it must be a lab mate who is currently not at their lab desk. If they catch you coffeeing their desk, you are to keep your coffee set until you find another target to gift your coffee set. This is derived from RLE Coffee Hour, when Ameya requested that Besties in attendance of RLE Coffee Hour bring him back "something sweet". 
+**Coffee-ing a Desk** - 
+If you see a set composed of coffee, sugar packets, and creamer (may include some additional items) appear on your desk, you should aim to gift this coffee set to a fellow lab mate, but it must be a lab mate who is currently not at their lab desk. If they catch you coffeeing their desk, you are to keep your coffee set until you find another target to gift your coffee set. This is derived from RLE Coffee Hour, when Ameya requested that Besties in attendance of RLE Coffee Hour bring him back "something sweet". 
 
 The retrieved "sweet" left on Ameya's desk was a singular packet of sugar.
 
