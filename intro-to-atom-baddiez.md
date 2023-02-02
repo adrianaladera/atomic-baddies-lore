@@ -25,19 +25,23 @@ A potato with [googly eyes](#googly-eyes) that traverses the desks of the Atomic
 ### Eggs
 Every student in the lab gets an egg, in some shape or form. Newer students are granted an egg by the Egg Madame, Adriana.
 ### Googly Eyes
+If you feel like you're being watched in the lab even when no one else is there, it's because you are. The lab features many googly eyes, appearing in either pairs on various items throughout the lab, or in clusters. Aimed to personify inanimate objects.
 ### Ducks
+Quack or crack 👀
 ### Notorious Meme Art
+Self-explanatory. [Memes](#).
 ### Spherical Harmonic Cows
 Think of your regular spherical harmonics, but they moo. 
 
 ### Tess Bear (formerly, Bosco)
-An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports 
+An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc.
 
 # Vocabulary and Nomenclature
 ### Atomic Baddie
 ### Bruh
 ### Pog
 ### Sus
+Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Unit%20step#e3nn.math.soft_unit_step)
 ### Slay
 
 # Glossary
