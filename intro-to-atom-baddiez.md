@@ -17,15 +17,15 @@ Slowly, more coffee-related items began to add themselves to the sugar packet se
 **Potato-ing a desk** - A potato that traverses desks in the same manner as the coffee set.
 
 # Motifs and Mascots
-### Eggs
+##### Eggs
 Every student in the lab gets an egg, in some shape or form. Newer students are granted an egg by the Egg Madame, Adriana.
-### Googly Eyes
+##### Googly Eyes
 ** Ducks ** -
 ** Notorious Meme Art** - 
-### Spherical Harmonic Cows
+##### Spherical Harmonic Cows
 Think of your regular spherical harmonics, but they moo. These 
 
-### Tess Bear (formerly, Bosco)
+##### Tess Bear (formerly, Bosco)
 An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports 
 
 # Glossary
