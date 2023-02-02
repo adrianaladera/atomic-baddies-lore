@@ -34,7 +34,7 @@ Self-explanatory. [Memes](#).
 Think of your regular spherical harmonics, but they moo. 
 
 ### Tess Bear (formerly, Bosco)
-An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc. First appeared as Bosco, brought in by Tuong, who adopted the bear from his other friend group. The idea of Tess Bear was birthed upon Tuong's suggestion that Bosco become our Tess [DUPE](#dupe)
+An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc. First appeared as Bosco, brought in by Tuong, who adopted the bear from his other friend group. The idea of Tess Bear was birthed upon Tuong's suggestion that Bosco become our Tess [DUPE](#dupe), and was quickly fulfilled
 
 # Vocabulary and Nomenclature
 ### Atomic Baddie
@@ -42,7 +42,15 @@ If you are a member of Tess' Atomic Architects research group and you are readin
 ### Dupe (emphasis on the "OO" pronunciation)
 A smaller, less expensive, or lesser known version of a more well-known counterpart. The dupe could also be lesser in other areas that may be negative (e.g. Boston has less rats than New York, so Boston is a New York [DUPE](https://www.tiktok.com/t/ZTRsccGA1/)).
 
+### Bonk
+The number of inappropriate jokes made within Song's presence, which warrant a bonk on the head given by her set of inflatable bats. Current bonk tally:
+- Ameya: 5
+- Adriana: 7
+- YuQing: 3
+- Tuong: 1
+- Elyssa: 1
 ### Bruh
+# F
 ### Pog
 ### Sus
 Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Unit%20step#e3nn.math.soft_unit_step)
