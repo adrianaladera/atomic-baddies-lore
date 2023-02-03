@@ -11,10 +11,10 @@ The retrieved "sweet" left on Ameya's desk was a singular packet of sugar.
 Slowly, more coffee-related items began to add themselves to the sugar packet set, which are a creamer from another RLE Coffee Hour, a K-cup from the RLE 6th floor office in 36-647. Now, the coffee items travel as a unit from one Atomic Baddie to the next.
 
 ### Helmet of Lobby 7
-While the optimized distance from the student lab office to Prayer (*See [Monday Prayer at 6](#monday-prayer-at-6)*) is outside, conditions are not ideal for traversal in the winter time. To avoid the not sexy weather, a path can be taken between 36-616 and Prayer via 36 → 34 → 38 → 39 → 37 → 35 → 33 → 9 → Lobby 7 → W11. Along this path is an advertisement of a biker whose helmet extrudes from the wall [image needed]. Passing by the helmet requires slapping it firmly.
+While the optimized distance from the student lab office to Prayer (*See [Monday Prayer at 6](#monday-prayer-at-6)*) is outside, conditions are not ideal for traversal in the winter time. To avoid the not sexy weather, a path can be taken between 36-616 and Prayer via 36 → 34 → 38 → 39 → 37 → 35 → 33 → 9 → Lobby 7 → W11. Along this path is an advertisement of a biker whose helmet extrudes from the wall [image needed], located in Lobby 7. Passing by the helmet requires slapping it firmly.
 
 ### Monday Prayer at 6
-When available, (a subset of) the Atomic Baddies go to W11 on Monday at 6pm to pray. This version of prayer involves sitting in the common area and consuming free food that is generously shared to MIT Vultures via Natalie Hill, who runs the Chapel Dinners.
+When available, (a subset of) the Atomic Baddies go to W11 on Monday at 6pm to pray. This version of prayer involves sitting in the common area and consuming free food that is generously shared to MIT Vultures via Natalie Hill, who runs the Chapel Prayer Dinners.
 
 ### Muffin Monday
 Someone fill this out I'm too lazy to do it.
