@@ -1,6 +1,6 @@
 The [Atomic Baddies](#atomic-baddie) have many layers. You may not understand now, but if you wish to be enlightened, please continue reading. This doc compiles all our [traditions](#traditions), [motifs and mascots](#motifs-and-mascots), [vocabulary and nomenclature](vocabulary-and-nomenclature), and [glossary](#glossary). More serious acclimating to the lab things can be found in the [Lab Guide](https://docs.google.com/document/d/1lKayYaAPpht888L6OrTDPlhF_X8ZywD6t9jxhjNqkak/edit#heading=h.vbdyl0a6xx01), but this living document is where our culture lies.
 
-
+Current Atomic Baddies are [Ameya Daigavane](#https://ameya98.github.io/), [Adriana Ladera](#https://adrianaladera.github.io/), [Elyssa Hofgard](#https://www.linkedin.com/in/elyssa-hofgard12/), [Song Kim](#https://songkim.me/), Tuong Phung, YuLin Hsiao, and YuQing Xie.
 
 # Traditions
 ### Coffeeing a Desk
@@ -63,6 +63,8 @@ Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Uni
 ### Rizz
 Your ability to attract people (usually romantically). Colloquially known as your ability to "pull" or have "hella game". W rizz denotes *hella game*, whereas L rizz signifies *little to no game*.
 ### Slay
+Unlike the [bonk](#bonk) counter, there is no limit to how many times you can say the word slay, although Adriana often tests those limits. This is a one word comment usually said in response to something, event, or person that is positive or impressive. Can also be used as a verb. Examples:
+- A Baddie just finished their group meeting presentation. "
 
 # Glossary
 ### RLE Coffee hour
