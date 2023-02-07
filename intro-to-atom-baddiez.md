@@ -1,6 +1,6 @@
-The [Atomic Baddies](#atomic-baddie) have many layers. You may not understand now, but if you wish to be enlightened, please continue reading. This doc compiles all our [traditions](#traditions), [motifs and mascots](#motifs-and-mascots), [vocabulary and nomenclature](vocabulary-and-nomenclature), and [glossary](#glossary). More serious acclimating to the lab things can be found in the [Lab Guide](https://docs.google.com/document/d/1lKayYaAPpht888L6OrTDPlhF_X8ZywD6t9jxhjNqkak/edit#heading=h.vbdyl0a6xx01), but this living document is where our culture lies.
+The [Atomic Baddies](#atomic-baddie) have many layers (like an onion). You may not understand now, but if you wish to be enlightened, please continue reading. This doc compiles all our [traditions](#traditions), [motifs and mascots](#motifs-and-mascots), [vocabulary and nomenclature](vocabulary-and-nomenclature), and [glossary](#glossary). More serious acclimating to the lab things can be found in the [Lab Guide](https://docs.google.com/document/d/1lKayYaAPpht888L6OrTDPlhF_X8ZywD6t9jxhjNqkak/edit#heading=h.vbdyl0a6xx01), but this living document is where our culture lies.
 
-Current Atomic Baddies are [Ameya Daigavane](https://ameya98.github.io/), [Adriana Ladera](https://adrianaladera.github.io/), [Elyssa Hofgard](https://www.linkedin.com/in/elyssa-hofgard12/), [Song Kim](https://songkim.me/), Tuong Phung, YuLin Hsiao, and YuQing Xie.
+Current Atomic Baddies are [Ameya Daigavane](https://ameya98.github.io/), [Adriana Ladera](https://adrianaladera.github.io/), [Elyssa Hofgard](https://www.linkedin.com/in/elyssa-hofgard12/), [Song Kim](https://songkim.me/), Tuong Phung, Yi-Lun Liao, and YuQing Xie.
 
 # Traditions
 ### Coffeeing a Desk
@@ -17,7 +17,7 @@ While the optimized distance from the student lab office to Prayer (*See [Monday
 When available, (a subset of) the Atomic Baddies go to W11 on Monday at 6pm to pray. This version of prayer involves sitting in the common area and consuming free food that is generously shared to MIT Vultures via Natalie Hill, who runs the Chapel Prayer Dinners.
 
 ### Muffin Monday
-Someone fill this out I'm too lazy to do it.
+CSAIL (which we are totally a part of :D) hosts Muffin Mondays on the 9th floor common of Gates Tower of Stata. All sorts of researchers and hungry students wait in a long line for Flour goodies each Monday at 5.
 
 ### Taco Tuesday
 Ayuda me estoy evaporando
