@@ -40,7 +40,7 @@ Self-explanatory. [Memes](https://github.com/adrianaladera/atomic-baddies-lore/b
 Think of your regular spherical harmonics, but they moo. 
 
 ### Tess Bear (formerly, Bosco)
-An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc. First appeared as Bosco, brought in by Tuong, who adopted the bear from his other friend group. The idea of Tess Bear was birthed upon Tuong's suggestion that Bosco become our Tess [DUPE](#dupe), and was quickly fulfilled
+An entity that is often seen seated in unoccupied lab chairs in the student office. Tess Bear sports a blond wig, funky silver dangling earrings, an Atomic Architects shirt, and a dress, although the dress frequently rolls up due to Tess Bear being too thicc. First appeared as Bosco, brought in by Tuong, who adopted the bear from his other friend group. The idea of Tess Bear was birthed upon Tuong's suggestion that Bosco become our Tess [DUPE](#dupe), and was quickly fulfilled. Tess Bear is the Furrier transform of Tess.
 
 # Vocabulary and Nomenclature
 ### Atomic Baddie
