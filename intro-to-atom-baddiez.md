@@ -51,7 +51,7 @@ A smaller, less expensive, or lesser known version of a more well-known counterp
 ### Bonk
 The number of inappropriate jokes made within Bonk Master Song's presence, which warrant a bonk on the head given by her set of inflatable bats. Current bonk tally:
 - Ameya: 7
-- Adriana: 7
+- Adriana: 99
 - YuQing: 3
 - Tuong: 1
 - Elyssa: 1
