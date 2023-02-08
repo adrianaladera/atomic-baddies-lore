@@ -50,13 +50,15 @@ A smaller, less expensive, or lesser known version of a more well-known counterp
 
 ### Bonk
 The number of inappropriate jokes made within Bonk Master Song's presence, which warrant a bonk on the head given by her set of inflatable bats. Current bonk tally:
-- Ameya: 5
+- Ameya: 7
 - Adriana: 7
 - YuQing: 3
 - Tuong: 1
 - Elyssa: 1
 ### Bruh
 ### F
+### Peanuts
+According to Mario (via Song and Adriana), peanuts is something you say when something should be minor to do.
 ### Pog
 ### Sus
 Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Unit%20step#e3nn.math.soft_unit_step)
