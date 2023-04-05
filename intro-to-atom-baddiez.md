@@ -57,6 +57,7 @@ The number of inappropriate jokes made within Bonk Master Song's presence, which
 - YuQing: 3
 - Tuong: 1
 - Elyssa: 1
+- Song: 1
 ### Bruh
 ### F
 ### Peanuts
