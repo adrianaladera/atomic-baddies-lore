@@ -74,8 +74,8 @@ The result of making an inappropriate joke within Bonkmaster Song's presence, i.
 - Adriana: 34
 - Ameya: 33
 - YuQing: 10
-- Tuong: 5
 - Elyssa: 6
+- Tuong: 5
 - Hannah: 2
 - Tess: 2
 - Song: 1
@@ -93,7 +93,7 @@ Rules of the bonk:
 
 Bonkmaster out. - Song
 
-### Bruh
+### Brother/Bruh/Bromine
 
 ### Dupe (emphasis on the "OO" pronunciation)
 A smaller, less expensive, or lesser known version of a more well-known counterpart. The dupe could also be lesser in other areas that may be negative (e.g. Boston has less rats than New York, so Boston is a New York [DUPE](https://www.tiktok.com/t/ZTRsccGA1/)).
