@@ -15,8 +15,8 @@ Slowly, more coffee-related items began to add themselves to the sugar packet se
 ### Helmet of Lobby 7
 While the optimized distance from the student lab office to Prayer (*See [Monday Prayer at 6](#monday-prayer-at-6)*) is outside, conditions are not ideal for traversal in the winter time. To avoid the not sexy weather, a path can be taken between 36-616 and Prayer via 36 → 34 → 38 → 39 → 37 → 35 → 33 → 9 → Lobby 7 → W11. Along this path is an advertisement of a biker whose helmet extrudes from the wall [image needed], located in Lobby 7. Passing by the helmet requires slapping it firmly.
 
-### Maseeh
-According to Ameya, the emphasis should be on the second syllable.
+### Maseeh Dining
+A classic meme fixture of the MIT dining scene. According to Ameya, the emphasis in "Maseeh" should be on the second syllable.
 
 ### Monday Prayer at 6
 When available, (a subset of) the Atomic Baddies go to W11 on Monday at 6pm to pray. This version of prayer involves sitting in the common area and consuming free food that is generously shared to MIT Vultures via Natalie Hill, who runs the Chapel Prayer Dinners.
@@ -25,7 +25,7 @@ When available, (a subset of) the Atomic Baddies go to W11 on Monday at 6pm to p
 CSAIL (which we are totally a part of :D) hosts Muffin Mondays on the 9th floor common of Gates Tower of Stata. All sorts of researchers and hungry students wait in a long line for Flour goodies each Monday at 5.
 
 ### RLE Coffee Hour
-Tragically scheduled at the same time as Symm4ML in spring 2023.
+Happens on Wednesdays on the 8th floor lobby of building 36. Tragically scheduled at the same time as Symm4ML in spring 2023.
 
 ### Taco Tuesday
 Ayuda me estoy evaporando
@@ -94,6 +94,7 @@ Rules of the bonk:
 Bonkmaster out. - Song
 
 ### Brother/Bruh/Bromine
+Words that are especially associated with Ameya. These are more or less interchangeable, with maybe some nuances in tone. On their own, generally an expression of exasperation or, sometimes, "wow that's dumb". Can also be used as part of a longer phrase, e.g. "hello brothers".
 
 ### Dupe (emphasis on the "OO" pronunciation)
 A smaller, less expensive, or lesser known version of a more well-known counterpart. The dupe could also be lesser in other areas that may be negative (e.g. Boston has less rats than New York, so Boston is a New York [DUPE](https://www.tiktok.com/t/ZTRsccGA1/)).
@@ -111,9 +112,10 @@ Tess!
 According to Mario (via Song and Adriana), peanuts is something you say when something should be minor to do.
 
 ### Pog
-<s>A kind of juice that the dining halls usually run out of.</s> One of several exclamations of joy, like ["slay"](#slay) and ["shyeah"](#shyeah).
+<s>A kind of juice that the dining halls usually run out of.</s> One of several exclamations of joy, like "[slay](#slay)" and "[shyeah](#shyeah)".
 
-### Port
+### Port (Portobello)
+Adriana's cat, who Tuong tries to steal. Also the larger of two black cat plushies in the lab (the other one being Mouse Port).
 
 ### Rizz
 Your ability to attract people (usually romantically). Colloquially known as your ability to "pull" or have "hella game". W rizz denotes *hella game*, whereas L rizz signifies *little to no game*.
@@ -122,10 +124,13 @@ Your ability to attract people (usually romantically). Colloquially known as you
 An exclamation (accompanied by wiggling a [shaka sign](https://en.wikipedia.org/wiki/Shaka_sign)) taken from a character in the 2023 Next Act production. Basically the same as "slay".
 
 ### Sigma
+Not gonna lie, we don't even know what this word actually means XD
 
 ### Slay
-Unlike the [bonk](#bonk) counter, there is no limit to how many times you can say the word slay, although Adriana often tests those limits. This is a one word comment usually said in response to something, event, or person that is positive or impressive. Can also be used as a verb. Examples:
+Unlike the [bonk](#bonk) counter, there is no limit to how many times you can say the word slay, although Adriana often tests those limits. This is a one word comment usually said in response to something, event, or person that is positive or impressive. Can be used as a verb, adjective, or a noun. Examples:
 - A Baddie just finished their group meeting presentation. "They slayed that presentation!"
+- While describing that same presentation: "That presentation was so slay", or "That presentation was such a slay."
+- A Baddie tries Huel Green for the first time and decides they don't like it. "Huel Green does not slay."
 
 ### Sus
 Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Unit%20step#e3nn.math.soft_unit_step)
@@ -134,4 +139,4 @@ Bro kinda [sus](https://docs.e3nn.org/en/stable/api/math/math.html?highlight=Uni
 Um.
 
 ### Wazz
-
+"I need to wazz" == "I need to pee"
