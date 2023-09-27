@@ -50,6 +50,9 @@ If you feel like you're being watched in the lab even when no one else is there,
 ### Hairy Ball Theorem Dog
 No explanation. [Only picture](https://github.com/adrianaladera/atomic-baddies-lore/blob/main/static/hariy-ball-dog.webp).
 
+### Mario
+Symbolism of hope, who to look forward to when you're lost in the code sauce. Has a shrine dedicated to him in the lab. Former postdoc of the Atomic Baddies, co-founder of e3nn and its child e3nn-jax, currently working in NVIDIA and living back in Switzerland.
+
 ### Notorious Meme Art
 Self-explanatory. [Memes](https://github.com/adrianaladera/atomic-baddies-lore/blob/main/static/meme-walls.jpg).
 
@@ -71,13 +74,14 @@ A beaver duckadoo? PERRY the beaver duckadoo?!
 
 ### Bonk
 The result of making an inappropriate joke within Bonkmaster Song's presence, i.e. a bonk on the head given by her set of inflatable bats. Current bonk tally (as of 5/18/23):
-- Adriana: 34
-- Ameya: 33
+- Ameya: 37
+- Adriana: 36
 - YuQing: 10
 - Elyssa: 6
 - Tuong: 5
+- Tess: 3
 - Hannah: 2
-- Tess: 2
+- Mit: 2
 - Song: 1
 - Mario: 1
 - Aria: 0
@@ -93,7 +97,7 @@ Rules of the bonk:
 
 Bonkmaster out. - Song
 
-### Brother/Bruh/Bromine
+### Brother/Bruh/Bromines/Brethren
 Words that are especially associated with Ameya. These are more or less interchangeable, with maybe some nuances in tone. On their own, generally an expression of exasperation or, sometimes, "wow that's dumb". Can also be used as part of a longer phrase, e.g. "hello brothers".
 
 ### Dupe (emphasis on the "OO" pronunciation)
